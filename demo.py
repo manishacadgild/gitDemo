@@ -1,5 +1,5 @@
 print("hello how are you")
 print("Honesty is the best policy")
 print("Honesty is the best policy")
-print("Monday  is the rainy season")
+print("Tuesday  for conflict")
 print("Sunday is not good weather")
